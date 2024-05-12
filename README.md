@@ -1,1 +1,1 @@
-# Gym-equipmen-tlist-vue
+# Gym-equipment-list-vue
